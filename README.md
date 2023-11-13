@@ -1,4 +1,4 @@
-// Optimizing Dry Bean Sorting into Classes using Classification with K-nearest neighbors
+### Optimizing Dry Bean Sorting into Classes using Classification with K-nearest neighbors
 
 
 Dry beans, scientifically known as Phaseolus vulgaris L., come in different varieties and are an important crop produced globally (Beebe et al., 2013). Cultivating mixed bean species rather than a single variety is common in Turkish agriculture, as well as in other Asian countries. This results in economic losses, as it is more difficult to process and sell mixed bean types. Turkey has several varieties of dry beans, including Barbunya, Battal, Bombay, Calı, Dermason, Horoz, Tombul, Selanik, and Seker. However, the market value of dry beans depends on the specific type of bean, and some beans are sold for higher prices than others.
@@ -9,4 +9,5 @@ In this project, we are interested in seed classification within the context of 
 
 Our aim in this project is to create a k-NN classifier that can classify dry bean seeds uniformly and accurately, using the dataset from this study.
 
-Predictive question: Can we accurately predict bean type (Seker, Barbunya, Bombay, Cali, Dermosan, Horoz, and Sira) using the physical features of the dry beans?
+### Predictive question: 
+Can we accurately predict bean type (Seker, Barbunya, Bombay, Cali, Dermosan, Horoz, and Sira) using the physical features of the dry beans?
