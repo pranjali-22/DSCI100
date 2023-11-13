@@ -1,5 +1,6 @@
-Optimizing Dry Bean Sorting into Classes using Classification with K-nearest neighbors
-Introduction:
+// Optimizing Dry Bean Sorting into Classes using Classification with K-nearest neighbors
+
+
 Dry beans, scientifically known as Phaseolus vulgaris L., come in different varieties and are an important crop produced globally (Beebe et al., 2013). Cultivating mixed bean species rather than a single variety is common in Turkish agriculture, as well as in other Asian countries. This results in economic losses, as it is more difficult to process and sell mixed bean types. Turkey has several varieties of dry beans, including Barbunya, Battal, Bombay, Calı, Dermason, Horoz, Tombul, Selanik, and Seker. However, the market value of dry beans depends on the specific type of bean, and some beans are sold for higher prices than others.
 
 The cultivation of the seven different beans together makes sorting them a crucial task (Koklu & Ozkan, 2020). Rather than selling them as a mixed batch, farmers can make more profit by sorting them by bean type. Manual classification of bean seeds can be error-prone and time-consuming, especially when dealing with high production volumes. Manual sorting is also expsensive and inconsistent concerning accuracy, which has led to growing interest in automatic sorting systems. Computer algorithms can analyze images of seeds and classify them based on features like size and shape, making sorting efficient and less labor-intensive than manual sorting. A seed classification system would assist farmers in obtaining uniform seed varieties from crop production while reducing the time and error of manual sorting.
